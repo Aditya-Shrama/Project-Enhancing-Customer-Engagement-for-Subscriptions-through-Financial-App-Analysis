@@ -1,8 +1,7 @@
 # Project-Enhancing-Customer-Engagement-for-Subscriptions-through-Financial-App-Analysis
 Optimizing FinTech app adoption with 24-hour trials. Use data insights to offer targeted promotions, fueling business growth.
 
-**Project Description: Enhancing App Adoption through Targeted Offers
-**
+**Project Description: Enhancing App Adoption through Targeted Offers**
 This project focuses on optimizing user acquisition and increasing conversion rates for a FinTech company's mobile app. To achieve this, the company is providing a free 24-hour trial to gather valuable user data. Leveraging this data, the project aims to identify patterns distinguishing potential customers from those less likely to convert.
 
 **Key Features:**
